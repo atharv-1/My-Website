@@ -1,0 +1,56 @@
+#adc{
+    background-color: black;
+    color:darkturquoise;
+    
+}
+#abc{
+    background-color: black;
+    color:cyan;
+    
+}
+#avc{
+    background-color: black;
+    color:chartreuse;
+}
+#afc{
+    background-color: black;
+    color:blue;
+}
+#afk{
+    background-color: black;
+    color:black;
+    
+}
+#afg{
+    background-color: black;
+    color:aqua;
+    
+}
+body{
+    text-align:center;
+    
+}
+img{
+    height:400px;
+    width:400px;
+border-radius: 50%;
+    border-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    background-color: black;
+    margin-top: 0px;
+    width: 100%;
+}
+.links{
+display: inline;
+    color: white;
+    font-size:35px;
+    padding-left: 30px;
+    padding-right: 25px;
+}
